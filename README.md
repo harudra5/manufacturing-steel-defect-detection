@@ -5,6 +5,8 @@ This project focuses on detecting and classifying defects on steel surfaces usin
 
 The project was developed in multiple stages, starting with image classification using CNN and VGG16, followed by YOLO-based object detection and finally deployment using Streamlit.
 
+Link to the Publication: https://manufacturing-steel-defect-detection-harudra.streamlit.app/ 
+
 ## Defect Classes
 
 The system detects 6 types of steel surface defects:
