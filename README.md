@@ -244,6 +244,16 @@ The final system is capable of:
 * Processing inspection videos frame by frame
 * Displaying predictions through a Streamlit interface
 
+## Sample Output defect detections
+
+<img width="260" height="262" alt="Screenshot 2026-08-27 064737" src="https://github.com/user-attachments/assets/511cd834-c8cc-481d-8c70-799ee3c00db2" />
+<img width="263" height="262" alt="Screenshot 2026-08-27 064645" src="https://github.com/user-attachments/assets/9acc26cf-c032-4da1-87c7-3921c4b5ad87" />
+<img width="256" height="263" alt="Screenshot 2026-08-27 064612" src="https://github.com/user-attachments/assets/ec92ae2c-b387-463d-b0db-49b092bcfd80" />
+<img width="261" height="264" alt="Screenshot 2026-08-27 064525" src="https://github.com/user-attachments/assets/c98d6431-d138-4059-9cd6-ed899718de83" />
+<img width="259" height="263" alt="Screenshot 2026-08-27 064448" src="https://github.com/user-attachments/assets/f94eb84c-b1eb-4f35-95db-a876ca601ca1" />
+<img width="267" height="263" alt="Screenshot 2026-08-27 064356" src="https://github.com/user-attachments/assets/7059f86e-2869-4591-9328-a17769ae4c2e" />
+
+
 ## Conclusion
 
 This project demonstrates an end-to-end **Computer Vision pipeline for automated steel surface defect inspection**.
